@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|d:\\lydinhson_65ktpm_nam2\\ky_ii\\windows_programing\\btl_n6_ver3\\frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_2_thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_2_thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_2_thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_2_thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_2_datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_2_datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_2_datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_2_datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_huyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_huyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traphong2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_traphong2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_huyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_huyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_traphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_traphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_tongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_tongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\usercontrol_tongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:usercontrol_tongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_quen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_quen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}|BTL_N6_ver3.csproj|solutionrelative:frm_trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_hoadon.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_hoadon.cs",
+              "RelativeDocumentMoniker": "frm_hoadon.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_hoadon.cs",
+              "RelativeToolTip": "frm_hoadon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:18:23.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl_2_thongtinKH.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_thongtinKH.cs",
+              "RelativeDocumentMoniker": "UserControl_2_thongtinKH.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_thongtinKH.cs [Design]*",
+              "RelativeToolTip": "UserControl_2_thongtinKH.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:21:18.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl_2_thongtinKH.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_thongtinKH.cs",
+              "RelativeDocumentMoniker": "UserControl_2_thongtinKH.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_thongtinKH.cs*",
+              "RelativeToolTip": "UserControl_2_thongtinKH.cs*",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAmwIABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:00:46.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connectDb.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\connectDb.cs",
+              "RelativeDocumentMoniker": "connectDb.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\connectDb.cs",
+              "RelativeToolTip": "connectDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:35:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl_thanhtoan.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_thanhtoan.cs",
+              "RelativeDocumentMoniker": "UserControl_thanhtoan.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_thanhtoan.cs*",
+              "RelativeToolTip": "UserControl_thanhtoan.cs*",
+              "ViewState": "AgIAAMYAAAAAAAAAAAA9wNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:39:02.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_trangchu.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.cs",
+              "RelativeDocumentMoniker": "frm_trangchu.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.cs [Design]",
+              "RelativeToolTip": "frm_trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:46:05.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_hoadon.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_hoadon.cs",
+              "RelativeDocumentMoniker": "frm_hoadon.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_hoadon.cs [Design]",
+              "RelativeToolTip": "frm_hoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:16:25.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl_thanhtoan.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_thanhtoan.cs",
+              "RelativeDocumentMoniker": "UserControl_thanhtoan.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_thanhtoan.cs [Design]*",
+              "RelativeToolTip": "UserControl_thanhtoan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:55:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_dangky.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_dangky.cs",
+              "RelativeDocumentMoniker": "frm_dangky.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_dangky.cs [Design]",
+              "RelativeToolTip": "frm_dangky.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:31:12.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl_2_datphong.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_datphong.cs",
+              "RelativeDocumentMoniker": "UserControl_2_datphong.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_datphong.cs",
+              "RelativeToolTip": "UserControl_2_datphong.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAqwNwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:52:35.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwFkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:33:52.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControl_2_datphong.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_datphong.cs",
+              "RelativeDocumentMoniker": "UserControl_2_datphong.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_2_datphong.cs [Design]",
+              "RelativeToolTip": "UserControl_2_datphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:37:46.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:36:42.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControl_huyPhong.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_huyphong.cs",
+              "RelativeDocumentMoniker": "UserControl_huyphong.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_huyphong.cs [Design]",
+              "RelativeToolTip": "UserControl_huyphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:51:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControl_huyPhong.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_huyphong.cs",
+              "RelativeDocumentMoniker": "UserControl_huyphong.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_huyphong.cs",
+              "RelativeToolTip": "UserControl_huyphong.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAWwOQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:35:31.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_traphong2.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traphong2.cs",
+              "RelativeDocumentMoniker": "frm_traphong2.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Windows_programing\\BTL_N6_ver3\\frm_traphong2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Windows_programing\\BTL_N6_ver3\\frm_traphong2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:34:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_traPhong.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traPhong.cs",
+              "RelativeDocumentMoniker": "frm_traPhong.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Windows_programing\\BTL_N6_ver3\\frm_traPhong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Windows_programing\\BTL_N6_ver3\\frm_traPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:42:09.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_traPhong.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traPhong.cs",
+              "RelativeDocumentMoniker": "frm_traPhong.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_traPhong.cs",
+              "RelativeToolTip": "frm_traPhong.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:50:40.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserControl_tongquan.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_tongquan.cs",
+              "RelativeDocumentMoniker": "UserControl_tongquan.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Windows_programing\\BTL_N6_ver3\\UserControl_tongquan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Windows_programing\\BTL_N6_ver3\\UserControl_tongquan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:36:25.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControl_tongquan.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_tongquan.cs",
+              "RelativeDocumentMoniker": "UserControl_tongquan.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\UserControl_tongquan.cs",
+              "RelativeToolTip": "UserControl_tongquan.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:53:49.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frm_trangchu.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.cs",
+              "RelativeDocumentMoniker": "frm_trangchu.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.cs",
+              "RelativeToolTip": "frm_trangchu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wIgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:47:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frm_quen.cs [Design]",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs",
+              "RelativeDocumentMoniker": "frm_quen.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:37:25.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frm_quen.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs",
+              "RelativeDocumentMoniker": "frm_quen.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_quen.cs",
+              "RelativeToolTip": "frm_quen.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:37:29.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frm_dangky.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_dangky.cs",
+              "RelativeDocumentMoniker": "frm_dangky.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_dangky.cs",
+              "RelativeToolTip": "frm_dangky.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:07:40.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frm_trangchu.Designer.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.Designer.cs",
+              "RelativeDocumentMoniker": "frm_trangchu.Designer.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam2\\Ky_II\\Windows_programing\\BTL_N6_ver3\\frm_trangchu.Designer.cs",
+              "RelativeToolTip": "frm_trangchu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:55:22.753Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

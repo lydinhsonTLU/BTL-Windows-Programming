@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{787EABB8-23AA-45C5-ADE2-FCC552C2B52C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BTL_N6_ver3</RootNamespace>
+    <AssemblyName>BTL_N6_ver3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="closeUsercontrol.cs" />
+    <Compile Include="connectDb.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dangky.Designer.cs">
+      <DependentUpon>frm_dangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_hoadon.Designer.cs">
+      <DependentUpon>frm_hoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_quen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_quen.Designer.cs">
+      <DependentUpon>frm_quen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_trangchu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_trangchu.Designer.cs">
+      <DependentUpon>frm_trangchu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_traPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_traPhong.Designer.cs">
+      <DependentUpon>frm_traPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_traphong2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_traphong2.Designer.cs">
+      <DependentUpon>frm_traphong2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_2_datphong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_2_datphong.Designer.cs">
+      <DependentUpon>UserControl_2_datphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_2_thongtinKH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_2_thongtinKH.Designer.cs">
+      <DependentUpon>UserControl_2_thongtinKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_huyPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_huyPhong.Designer.cs">
+      <DependentUpon>UserControl_huyPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_thanhtoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_thanhtoan.Designer.cs">
+      <DependentUpon>UserControl_thanhtoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_tongquan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_tongquan.Designer.cs">
+      <DependentUpon>UserControl_tongquan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dangky.resx">
+      <DependentUpon>frm_dangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_hoadon.resx">
+      <DependentUpon>frm_hoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_quen.resx">
+      <DependentUpon>frm_quen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_trangchu.resx">
+      <DependentUpon>frm_trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_traPhong.resx">
+      <DependentUpon>frm_traPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_traphong2.resx">
+      <DependentUpon>frm_traphong2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_2_datphong.resx">
+      <DependentUpon>UserControl_2_datphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_2_thongtinKH.resx">
+      <DependentUpon>UserControl_2_thongtinKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_huyPhong.resx">
+      <DependentUpon>UserControl_huyPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_thanhtoan.resx">
+      <DependentUpon>UserControl_thanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_tongquan.resx">
+      <DependentUpon>UserControl_tongquan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongke.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongke1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\analytics-bar-chart-yellow-neon-icon-transparent-background-yellow-neon-icon-on-dark-background-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongtin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongtin1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongke2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongke3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\thongke4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thongtin.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\tongquan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\tongquan1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\datphong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\dat1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\huy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\pay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\pay1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\pay2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\pay3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\panelBack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\huyBlack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\dautichBl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\287459670_10216722679978116_316651025411003491_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\qr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\acc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\password.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\logoHotel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\logohotel2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\dautichBl_full.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anh_control\lock.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
